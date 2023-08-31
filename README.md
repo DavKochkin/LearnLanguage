@@ -28,10 +28,10 @@ In the LearnLanguage you add foreign words, translation and description. Use ran
 + Swipe to the left to delete an unnecessary word.
 + Button + Opens a New View in which you can add a new word, translation and description.
 
-![AddNewWordView](https://github.com/DavKochkin/LearnLanguage/assets/122441539/f7347563-723b-4509-bd38-c7edf97de308)
-![LearnL - AddNewWord](https://github.com/DavKochkin/LearnLanguage/assets/122441539/0d25c871-54b8-47f3-ada6-8e5d5161df54)
-![LearnLAddNewW](https://github.com/DavKochkin/LearnLanguage/assets/122441539/a9a57b14-5037-4f6f-8075-024854c95a97)
-![DeleteWord](https://github.com/DavKochkin/LearnLanguage/assets/122441539/c1296386-43da-4629-9221-5fc2579ff054)
+![AddNewWordView](https://github.com/DavKochkin/LearnLanguage/assets/122441539/f7347563-723b-4509-bd38-c7edf97de308) ![LearnL - AddNewWord](https://github.com/DavKochkin/LearnLanguage/assets/122441539/0d25c871-54b8-47f3-ada6-8e5d5161df54)
+
+![LearnLAddNewW](https://github.com/DavKochkin/LearnLanguage/assets/122441539/a9a57b14-5037-4f6f-8075-024854c95a97) ![DeleteWord](https://github.com/DavKochkin/LearnLanguage/assets/122441539/c1296386-43da-4629-9221-5fc2579ff054)
+
 
 ## RandomWordView
 
