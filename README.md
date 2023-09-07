@@ -39,16 +39,13 @@ In the LearnLanguage you add foreign words, translation and description. Use ran
 + A new one appears with the Next button.
 + You can also view the translation of the word.
 
-![RandomWordsAnim](https://github.com/DavKochkin/LearnLanguage/assets/122441539/4fdf75e3-fa02-454e-a1b9-aaf1f312f1e9)
-![TranslateWord](https://github.com/DavKochkin/LearnLanguage/assets/122441539/2883eaae-65ca-4957-aa79-f2a7a184a3f7)
+![RandomWordsAnim](https://github.com/DavKochkin/LearnLanguage/assets/122441539/4fdf75e3-fa02-454e-a1b9-aaf1f312f1e9) ![TranslateWord](https://github.com/DavKochkin/LearnLanguage/assets/122441539/2883eaae-65ca-4957-aa79-f2a7a184a3f7)
 
 ## LinkShowView 
 
 + You can add a link and a name.
 + Clicking on the link takes you to the website.
 
-![LearnLAddLink](https://github.com/DavKochkin/LearnLanguage/assets/122441539/747031c2-e40f-446e-a562-35986d25afdc)
-![LearnL- AddLink](https://github.com/DavKochkin/LearnLanguage/assets/122441539/bc3bebe1-f899-45ac-9640-1e07867bcff7)
-![EntertheLink](https://github.com/DavKochkin/LearnLanguage/assets/122441539/b6de5f3b-b84c-488f-88e3-53fe5300e459)
+![LearnLAddLink](https://github.com/DavKochkin/LearnLanguage/assets/122441539/747031c2-e40f-446e-a562-35986d25afdc) ![LearnL- AddLink](https://github.com/DavKochkin/LearnLanguage/assets/122441539/bc3bebe1-f899-45ac-9640-1e07867bcff7) ![EntertheLink](https://github.com/DavKochkin/LearnLanguage/assets/122441539/b6de5f3b-b84c-488f-88e3-53fe5300e459)
 
   
